@@ -1,0 +1,5 @@
+C:\Users\MARTI\Desktop\Work Related\Companys work\net framework\Test Work (Rik)\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\MARTI\Desktop\Work Related\Companys work\net framework\Test Work (Rik)\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\MARTI\Desktop\Work Related\Companys work\net framework\Test Work (Rik)\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\MARTI\Desktop\Work Related\Companys work\net framework\Test Work (Rik)\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\MARTI\Desktop\Work Related\Companys work\net framework\Test Work (Rik)\Homework\Homework\obj\Debug\Homework.pdb
